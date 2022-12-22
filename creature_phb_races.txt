@@ -2,10 +2,6 @@ creature_phb_races
 
 [OBJECT:CREATURE]
 
-	TODO: Silver dragonborn currently have no breath weapons. Figure out how to implement a freezing breath weapon in the game.
-	TODO: The bronze dragonborn breath weapon isn't really a lightning attack (You could use a projectile or a telekinetic shove type deal for them).
-	TODO: Copper dragonborn get acid breath weapons, and these aren't implemented into the game at all, because we don't know what the material token for acid would be, or how we would implement it if we need to define it ourselves.
-
 [CREATURE:METALLIC_DRAGONBORN]
 
 	Keeping the formatting mostly the same as in the creature_standard.txt file, for clarity.
