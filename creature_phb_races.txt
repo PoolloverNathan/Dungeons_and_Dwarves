@@ -487,6 +487,8 @@ creature_phb_races
 	 [PLUS_MATERIAL:PUS]
 		[MELTING_POINT:10000]
 
+TEST
+
 [CREATURE:GNOME]
 
 	TODO: Once we add magic, make sure that forest gnomes have the minor illusion cantrip.
