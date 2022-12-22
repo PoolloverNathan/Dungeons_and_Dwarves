@@ -2,6 +2,8 @@ creature_phb_races
 
 [OBJECT:CREATURE]
 
+TEST
+
 [CREATURE:METALLIC_DRAGONBORN]
 
 	Keeping the formatting mostly the same as in the creature_standard.txt file, for clarity.
@@ -486,8 +488,6 @@ creature_phb_races
 	[SELECT_MATERIAL:BLOOD]
 	 [PLUS_MATERIAL:PUS]
 		[MELTING_POINT:10000]
-
-TEST
 
 [CREATURE:GNOME]
 
