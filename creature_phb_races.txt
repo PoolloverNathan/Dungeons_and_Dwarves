@@ -589,6 +589,12 @@ creature_phb_races
 	[MENT_ATT_RANGE:MEMORY:700:1200:1400:1500:1600:1800:2500]               ++
 	[MENT_ATT_RANGE:LINGUISTIC_ABILITY:700:1200:1400:1500:1600:1800:2500]   ++
 
+	This adds body size.
+
+	[BODY_SIZE:0:0:1000]
+	[BODY_SIZE:1:168:5000]
+	[BODY_SIZE:16:0:20000]
+
 	Some body part description things.
 
 	[SET_BP_GROUP:BY_CATEGORY:EYE]
@@ -697,7 +703,7 @@ creature_phb_races
 	[BABY:5]
 	[GENERAL_BABY_NAME:gnomish baby:gnomish babies]
 	[BABY_NAME:gnomish baby:gnomish babies]
-	[CHLID:40]
+	[CHILD:40]
 	[GENERAL_CHILD_NAME:gnomish child:gnomish children]
 	[CHILD_NAME:gnomish child:gnomish children]
 	[EQUIPS]
