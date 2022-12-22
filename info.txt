@@ -1,0 +1,8 @@
+[ID:dungeons_and_dwarves]
+[NUMERIC_VERSION:0.0]
+[DISPLAYED_VERSION:0.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0.0]
+[AUTHOR:Caitqua]
+[NAME:Dungeons & Dwarves]
+[DESCRIPTION:A mod that completely reworks the world of Dwarf Fortress into a generic Dungeons & Dragons setting.]
