@@ -1610,12 +1610,3 @@ creature_phb_races
 		[NAME:nomadic orc:nomadic orcs:orcish]
 		[CASTE_NAME:nomadic orc:nomadic orcs:orcish]
 		[DESCRIPTION:These creatures live a life that has no place for weakness, and every warrior must be strong enough to take what is needed by force.]
-
-
-
-
-
-
-
-
-
