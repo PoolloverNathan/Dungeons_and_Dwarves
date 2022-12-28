@@ -347,8 +347,8 @@ creature_phb_races
 	        [CDI:BP_REQUIRED:BY_CATEGORY:MOUTH]
 	        [CDI:VERB:breathe lightning:breathe lightning:NA]
 	        [CDI:TARGET:C:LINE_OF_SIGHT]
-	        [CDI:MAX_TARGET_NUMBER:C:100]
-	        [CDI:WAIT_PERIOD:30]
+	        [CDI:MAX_TARGET_NUMBER:C:2]
+	        [CDI:WAIT_PERIOD:50]
 
 	[CASTE:COPPER_FEMALE]
 		[CASTE_NAME:copper dragonborn woman:copper dragonborn women:copper dragonborn woman]
